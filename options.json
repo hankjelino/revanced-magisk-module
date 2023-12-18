@@ -1,1 +1,13 @@
-[]
+        
+[
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "com.rvx.yt"
+      }
+    ]
+  }
+]
+        
