@@ -10,7 +10,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
 included-patches = "'Remove player controls background'"
-excluded-patches = "'Premium heading' 'Alternative thumbnails' 'Enable tablet layout' 'GmsCore support'"
+excluded-patches = "'Premium heading' 'Alternative thumbnails' 'Enable tablet layout'"
 
 [TikTok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
