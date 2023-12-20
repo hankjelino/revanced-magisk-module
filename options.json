@@ -6,6 +6,10 @@
       {
         "key": "PackageNameYouTube",
         "value": "com.rvx.yt"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "com.rvx.ytmusic"
       }
     ]
   }
